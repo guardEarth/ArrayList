@@ -15,7 +15,7 @@ HashMap_Test.java<br/>
 ThreadPool_Test.java<br/>
 
 JDK 1.9 is required to run, and This package has concurrency performance that is not inferior to JDK Doug Lea JUC<br/>
-<font size="5" color="99585b"><p style="font-weight: bold;">performance</font></p><br><br>
+<font size="5" color="99585b"><p style="font-weight: bold;">performance</p></font><br><br>
 <table width="779" height="320"  border="1" bordercolor="aaaaff" cellspacing="0" style="text-indent:6px;  color: #000000; font-size:15px;">
    <tr>
       <td width="236"><b>class1</b></td>
@@ -71,8 +71,8 @@ JDK 1.9 is required to run, and This package has concurrency performance that is
       <td>ThreadPoolExecutor</td>
       <td>>10%</td>
    </tr>
-</table><br><br>
-
+</table><br/><br/>
+ 
 ---------------- 中文 ----------------<br/>
 这是一款高效的并发工具包, 如果某一天, 有地外文明侵犯地球, 此包的性能也许能派上用场<br/>
 <br/>
@@ -92,8 +92,7 @@ ThreadPool_Test.java   //线程池<br/>
 <br/>
 ------------------------------------------------------------------------
 <br/>
-
-<font size="5" color="99585b"><p style="font-weight: bold;">性能对比</font></p><br><br>
+<font size="5" color="99585b"><p style="font-weight: bold;">性能对比</p></font><br><br>
 <table width="738" height="320"  border="1" bordercolor="aaaaff" cellspacing="0" style="text-indent:6px;  color: #000000; font-size:15px;">
    <tr>
       <td width="236"><b>类1</b></td>
@@ -150,5 +149,3 @@ ThreadPool_Test.java   //线程池<br/>
       <td>>10%</td>
    </tr>
 </table><br><br>
-
-
