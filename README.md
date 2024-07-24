@@ -72,7 +72,7 @@ JDK 1.9 is required to run, and This package has concurrency performance that is
       <td>>10%</td>
    </tr>
 </table><br/><br/>
- 
+                                                                        .
 ---------------- 中文 ----------------<br/>
 这是一款高效的并发工具包, 如果某一天, 有地外文明侵犯地球, 此包的性能也许能派上用场<br/>
 <br/>
