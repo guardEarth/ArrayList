@@ -90,9 +90,6 @@ ThreadPool_Test.java   //线程池<br/>
 <br/>
 需要jdk1.9才能运行，此包拥有不输 jdk Doug Lea JUC的并发性能。<br/>
 <br/>
-------------------------------------------------------------------------
-<br/>
-
 <font size="5" color="99585b"><p style="font-weight: bold;">性能对比</font>
 <table width="738" height="320"  border="1" bordercolor="aaaaff" cellspacing="0" style="text-indent:6px;  color: #000000; font-size:15px;">
    <tr>
